@@ -28,7 +28,7 @@ Passionate about Cloud, DevOps, and AI/ML-driven solutions.
 ---
 
 ### 🔍 About Me  
-I’m currently working on *Microsoft Azure Projects, **AI/ML, and **Data Science* 
+I’m currently working on **Microsoft Azure projects, AI/ML, and Data Science.**  
 Always learning, building, and exploring cloud-native technologies and automation.
 
 ---
